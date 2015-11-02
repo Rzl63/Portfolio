@@ -6,7 +6,7 @@
 </style>
 
     <nav id ="nav" class="navbar navbar-inverse" >
-      <div class="contaner" >
+      <div>
         <div class="navbar-header" >
           <button class="navbar-toggle collapsed" aria-controls="navbar" aria-expanded="false" data-target="#navbar" data-toggle="collapse" type="button">
             <a class="navbar-brand">Menu</a>

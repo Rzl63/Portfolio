@@ -1,13 +1,13 @@
 <style type="text/css">
-#contact{background: url(img/contact.jpg)fixed ;padding-bottom: 40px; font-family: 'Raleway'; color: #fff}
+#contact{background: url(img/concept5.jpg)fixed center no-repeat;padding-bottom: 40px; font-family: 'Raleway'; color: #000}
 #contact form{display: noe}
 #contact #civil{display: noe}
 #contact h1{font-family: 'Indie Flower'; color: #fff; margin-bottom: 30px}
-#contact h4{font-family: 'Raleway'}
+#contact h4{font-family: 'Raleway'; background-color:#2d2b2d; padding: 10px; border: solid 1px #fff; color: #fff}
 #contact #bn{border: solid 1px #000}
 #contact textarea{border: solid 1px #000;background:#fff; padding: 20px; color red;}
 #contact p{font-family: 'Raleway',serif; color: #fff}
-.btnEnvoi { display: block; width: 100%; margin-top: 10px;border: solid 3px #fff; background-color: #2d2b2d; color: #fff; padding: 10px; text-decoration: none; font-weight: bold; font-family: 'Raleway' }
+.btnEnvoi { display: block; width: 100%; margin-top: 10px;border: solid 1px #fff; background-color: #2d2b2d; color: #fff; padding: 10px; text-decoration: none; font-weight: bold; font-family: 'Raleway' }
 #contact #info{display: noe; margin-top: 20px;}
 </style>
 
@@ -18,7 +18,7 @@
 					<h1 class="text-center">CONTACT ...</h1>
 					<div class="col-md-6 col-lg-4 text-center">		
 						<form action="#contact" method="POST" style="color:#fff">
-							<h4>Contactez moi</h4>	
+							<h4>Contactez moi !</h4>	
 							<div class="form-group">
 								<input type="text" id="bn" class="form-control" onfocus="focusFunction()" name="name" placeholder="Nom ou Raison sociale*"></br>
 								<input type="text" id="bn" class="form-control" name="surname" placeholder="Prénom*"></br>				
@@ -31,9 +31,7 @@
 					</div> 
 						       
 					<div id ="civil" class="col-lg-3 text-center">
-						<h4 class="text-center">Mourad Mekrazi</h4>
-						<p>12 rue Georges Teissier</br>
-							42000 SAINT-ETIENNE</p>
+						</br>
 						<div class="addthis_sharing_toolbox"></div>
 						<p>* Champs Obligatoires</p>
 						<?php  require_once('validator.php'); 

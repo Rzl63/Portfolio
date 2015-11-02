@@ -3,25 +3,27 @@
 #titre{display:none;font-size: 80px; font-family: 'Raleway', serif; font-weight: bld}
 #s-titre{display:none;font-size: 50px; font-family: 'Raleway'}
 #s-titre2{display:none;font-size: 30px; font-family: 'Raleway'}
-#gr-btn{display:none;vertical-align: center}
+#gr-btn{display:none;vertical-align: center; opacity: 0.1}
 /*#photo1{position: absolute;top: 50px ;right: -480px}*/
 #phone{position: absolute; top:180px ;left: -400px}
 #accueil a{color: #000; list-style: none}
 #accueil a:link{text-decoration: none}
-#btn{display:inline-block; border: solid 3px #fff;background: transparent; padding: 10px;width:200px; font-family: 'Raleway';font-weight: bod; color: #fff; cursor: pointer;}
-#btn1{display:inline-block; border: solid 3px #fff;background: transparent; padding: 10px;width:200px; margin-top: 10px; font-family: 'Raleway';font-weight: bld; color: #fff; cursor: pointer;}
+#btn{display:inline-block; border: solid 3px #fff;background: transparent; padding: 10px;width:200px; font-family: 'Raleway';font-weight: bold; color: #fff; cursor: pointer;}
+#btn1{display:inline-block; border: solid 3px #fff;background: transparent; padding: 10px;width:200px; margin-top: 10px; font-family: 'Raleway';font-weight: bold; color: #fff; cursor: pointer;}
 #myModal2{color: #000}
+#network{display: none; margin-top: 50px;opacity: .1 }
+#network div{display: inline-block; margin: 10px}
 </style>
 
 
 <section id="accueil" align"center">
-   <div id="valid" align="center">
-        <div class="">
+   <div id="valid">
+        <div class="" align="center">
             <div class="hidden-xs hidden-sm hidden-md" >
               <!--<img id="phone" class="img-responsive" src="img/iphone.png" alt="Responsive Multi Device" width="300px">-->
               <!--<img id="photo1" class="img-responsives" src="img/mm.png" alt="Mourad Mekrazi" width="460px">-->
             </div>
-            <div align="center">
+            <div>
                 <!--<img  id="mm" src="img/mmo.png" class="img-responsive">-->
                 <h1 id="titre">Mourad Mekrazi</h1>
                 <h1 id="s-titre">Développeur Web & Mobile</h1>
@@ -30,6 +32,11 @@
                     <div id="btn" align="center" data-toggle="modal" data-target="#myModal2">PARCOURS</div></a>
                     <div id="btn1" align="center" data-toggle="modal" data-target="#myModal">QUI SUIS-JE ?</div>
                 </div>    
+            </div>
+            <div id ="network" class="hidden-xs">
+              <a href="http://fr.linkedin.com/in/mouradmekrazi" target="_blank"><div class="img-responsive" ><img src="img/lin.png" width="185px"></div></a>
+              <a href="http://www.viadeo.com/fr/profile/mourad.mekrazi" target="_blank"><div class="img-responsive" ><img src="img/viadeo.png" width="150px"></div></a>
+              <a href="https://plus.google.com/u/0/104695558896883871492/posts" target="_blank"><div class="img-responsive" ><img src="img/google.png" width="160px"></div></a>
             </div>
         </div> 
         <div id="myModal" class="modal fade" role="dialog">

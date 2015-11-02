@@ -3,15 +3,15 @@
 .experience{color: #000; font-family: 'Indie Flower'; margin-bottom: 0px; color: #000; border-bottom: 1px solid #fff}
 #exp{display: nne}
 .xp{background-color: #A10000; color: #FFF; padding: 5px;}
-.box{background-color: #F3F3F2; padding: 10px; margin: 30px 0 0 0; line-height: 25px;}
+.box{background-color: #F3F3F2; padding: 10px; margin: 30px 0 0 0; line-height: 25px;border-bottom: solid 4px #bfb6ae}
 .box h5{background-color: #2d2b2d; color: #FFF; padding: 10px ;border: solid 2px #fff}
 #experiences span{font-family: 'Raleway'}
 #experiences a{font-family: 'Raleway'}
 #experiences a:link{text-decoration: none}
 .box p{padding-top: 10px; font-family: 'Raleway'}
-.rpc {display:block; border: solid 3px #fff; padding: 10px 80px 10px 80px; font-family: 'Raleway';font-weight: bold; background: #2d2b2d}
-.cs {display:block; border: solid 3px #fff; padding: 10px 80px 10px 80px; font-family: 'Raleway';font-weight: bold; background: #2d2b2d}
-.rr {display:block; border: solid 3px #fff; padding: 10px 80px 10px 80px; font-family: 'Raleway';font-weight: bold; background: #2d2b2d}
+.rpc {display:block; border: solid 1px #fff; padding: 10px 80px 10px 80px; font-family: 'Raleway';font-weight: bold; background: #2d2b2d}
+.cs {display:block; border: solid 1px #fff; padding: 10px 80px 10px 80px; font-family: 'Raleway';font-weight: bold; background: #2d2b2d}
+.rr {display:block; border: solid 1px #fff; padding: 10px 80px 10px 80px; font-family: 'Raleway';font-weight: bold; background: #2d2b2d}
 
 </style>
 

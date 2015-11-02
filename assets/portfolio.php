@@ -2,7 +2,7 @@
 #portfolio{background: url(img/concept10.jpg) fixed; padding-bottom: 40px}
 .portfolio{color: #fff; font-family: 'Indie Flower';margin-bottom: 30px}
 #owl-demo .item{margin: 3px;}
-#owl-demo .item img{display: block; width: 100%; height: 300px}
+#owl-demo .item img{display: block; width: 100%; height: 430px}
 .textFolio{color: #fff; padding-bottom: 10px}
 
 

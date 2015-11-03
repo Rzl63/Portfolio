@@ -1,8 +1,10 @@
 # portfolio
-PORFOLIO
+PORFOLIO Version 1.0
 
-Police a tester : Capture it, Jaguar jc, 
+Mon propre Site Internet qui montre mes réalisations
 
-Site de transition : http://smashinghub.com/15-page-transitions-effects-tutorials-in-css3-and-jquery.htm
+Nouveau Projet de Site Internet pour un Garage Automobile 
+#Site One Page
+#Php procédural
 
-Site a voir pour exemple: http://fr.myebox.com/
+Box Vagrant complète pour travailler sur le projet (ou un autre) https://github.com/scotch-io/scotch-box

@@ -21,7 +21,8 @@
   <!--<script type="text/javascript" src="js/jquery-ui-1.11.4.js"></script><!local-->
   <!--<script type="text/javascript" src="js/bootstrap.js"></script><!local-->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script><!--Appel de Bootstrap en CDN-->
-  <script src="js/owl.carousel.js"></script>
+  <script src="js/less.js" type="text/javascript"></script>
+  <script src="js/owl.carousel.js" type"text/javascript"></script>
 
   <script>
       

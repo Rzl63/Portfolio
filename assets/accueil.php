@@ -4,7 +4,6 @@
 #s-titre{display:none;font-size: 50px; font-family: 'Raleway'}
 #s-titre2{display:none;font-size: 30px; font-family: 'Raleway'}
 #gr-btn{display:none;vertical-align: center; opacity: 0.1}
-/*#photo1{position: absolute;top: 50px ;right: -480px}*/
 #phone{position: absolute; top:180px ;left: -400px}
 #accueil a{color: #000; list-style: none}
 #accueil a:link{text-decoration: none}
@@ -44,7 +43,7 @@
             <div class="modal-content">
               <div class="modal-heaer">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-tile" style="color:#000"><strong>Bienvenue sur mon Portfolio</strong></h4>
+                <h4 class="modal-tile" style="color:#000" align="center">Bienvenue sur mon Portfolio</h4>
               </div>
               <div class="modal-body">
                 <p class="col-md-6" style="color:#000" style="padding:50px"></br></br>En reconversion professionnelle dans le web, je recherche une entreprise pour effectuer un contrat
@@ -67,9 +66,9 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal"></button>
-                <h4 class="modal-title" style="color:#000">PARCOURS</h4>
+                <h4 class="modal-title text-center" style="color:#000" align"center">Parcours</h4>
               </div>
-              <div class="modal-body row">
+              <div class="modal-body">
                 <div>
                     <div class="box text-center red fond">    
                         <h5><strong>DEVELOPPEUR WEB ET MOBILE</strong></h5>

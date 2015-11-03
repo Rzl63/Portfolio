@@ -6,7 +6,8 @@
     <meta name="author" content="Mekrazi Mourad">
     <meta name="keywords" content="Mekrazi Mourad,Mourad Mekrazi, Mekrazi, Mourad ,mekrazi, mourad, mekrazi-mourad.fr, CV, développeur, développeur full-stack, intégrateur, intégrateur web, serveur, back-end, front-end, chef de secteur, commerce, chef de rayon, brico depot, bricolage, webmaster, webdesigner, debutant, manager, univers marchand, bts muc" />
     <meta name="description" content=" CV de Mekrazi Mourad">
-    <link rel="stylesheet"  href="style.css">
+    <!-- <link rel="stylesheet"  href="style.css"> -->
+    <link rel="stylesheet/less" type="text/css" href="style.less">
     <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/owl.carousel.css">

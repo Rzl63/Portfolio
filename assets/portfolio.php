@@ -16,11 +16,11 @@
         <h1 class="portfolio" align="center">MON PORTFOLIO ...</h1>
             <div id="owl-demo">  
               <div class="item"><a  href=""><img src="img/chpa1.png" alt="chpa.fr" style="border: solid 2px #fff"></a></div>
-              <div class="item" style="color:#fff"><p>GARAGE CHPA</br>Version 1.0</br>Site en cours de réalisation.</br>Techniques Utilisées:</br> - HTML5</br> - CSS3</br> - Bootstrap</br>- Javascript</br> - JQuery</br> - Php5/MySql</br>Codage Procédural</br></br><a>En cours de Réalisation</a></p></div>
+              <div class="item" style="color:#fff"><p>GARAGE CHPA</br>Version 1.0</br>Site en cours de réalisation.</br>Techniques Utilisées:</br> - HTML5</br> - CSS3</br> - Less</br> - Bootstrap</br>- Javascript</br> - JQuery</br> - Php5/MySql</br>Codage Procédural</br></br><a>En cours de Réalisation</a></p></div>
               <div class="item"><a  href="http://mourad-mekrazi.fr/" target="_blank"><img src="img/mourad.png" alt="mourad-mekrazi.fr" style="border: solid 2px #fff"></a></div>
-              <div class="item" style="color:#fff"><p>MEKRAZI MOURAD</br>Version 1.0</br>Réalisation de mon portfolio.</br>Techniques Utilisées:</br> - HTML5</br> - CSS3</br> - Bootstrap</br>- Javascript</br> - JQuery</br> - Php5/MySql</br>Codage Procédural</br></br><a href="http://mourad-mekrazi.fr/" target="_blank">www.mourad-mekrazi.fr</a></p></div>
+              <div class="item" style="color:#fff"><p>MEKRAZI MOURAD</br>Version 1.0</br>Réalisation de mon portfolio.</br>Techniques Utilisées:</br> - HTML5</br> - CSS3</br> - Less</br> - Bootstrap</br>- Javascript</br> - JQuery</br> - Php5/MySql</br>Codage Procédural</br></br><a href="http://mourad-mekrazi.fr/" target="_blank">www.mourad-mekrazi.fr</a></p></div>
               <div class="item"><a  href="http://mourad-mekrazi.fr/" target="_blank"><img src="img/iphone.png" alt="mourad-mekrazi.fr"></a></div>
-              <div class="item" style="color:#fff"><p>MEKRAZI MOURAD</br>Version Mobile 1.0</br>Réalisation du site en Responsive Design.</br>Techniques Utilisées:</br> - HTML5</br> - CSS3</br> - Bootstrap</br> - Javascript</br> - JQuery</br> - Php5/MySql</br>Codage Proédural</br></br><a href="http://mourad-mekrazi.fr/" target="_blank">mourad-mekrazi.fr</a></p></div>
+              <div class="item" style="color:#fff"><p>MEKRAZI MOURAD</br>Version Mobile 1.0</br>Réalisation du site en Responsive Design.</br>Techniques Utilisées:</br> - HTML5</br> - CSS3</br> - Less</br> - Bootstrap</br> - Javascript</br> - JQuery</br> - Php5/MySql</br>Codage Proédural</br></br><a href="http://mourad-mekrazi.fr/" target="_blank">mourad-mekrazi.fr</a></p></div>
             </div>
 		</div>	
 	</div>	
